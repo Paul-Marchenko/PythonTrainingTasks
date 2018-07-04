@@ -1,0 +1,8 @@
+message = ("")
+print(message)
+message_1 = ("Hello Python world!")
+print(message)
+message = ("Hello Python Crash Course world!")
+print(message)
+message = ("0")
+print(message)
