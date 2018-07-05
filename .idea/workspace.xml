@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23ac2be8-c6ca-4b55-94d8-db1b4017332a" name="Default" comment="" />
+    <list default="true" id="23ac2be8-c6ca-4b55-94d8-db1b4017332a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/number_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remember_me.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_file_username.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_writer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt_files/cats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt_files/cats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt_files/dogs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt_files/dogs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/write_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/write_message.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,68 +20,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="file_reader.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file_reader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="write_message.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/write_message.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="34" selection-start-line="21" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="273">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="division.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/division.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="number_writer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="number_writer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/number_writer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="number_reader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/number_reader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="remember_me.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/remember_me.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sec_file_username.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sec_file_username.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="username.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/username.json">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="for_testing.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/txt_files/for_testing.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="361" selection-start-column="361" selection-end-column="361" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gzsh_file.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/txt_files/gzsh_file.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="cats.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/txt_files/cats.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dogs.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/txt_files/dogs.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -88,6 +83,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,17 +103,20 @@
         <option value="$PROJECT_DIR$/Die.py" />
         <option value="$PROJECT_DIR$/txt_files/guest.txt" />
         <option value="$PROJECT_DIR$/file_reader.py" />
-        <option value="$PROJECT_DIR$/write_message.py" />
         <option value="$PROJECT_DIR$/txt_files/for_testing.txt" />
         <option value="$PROJECT_DIR$/division.py" />
+        <option value="$PROJECT_DIR$/write_message.py" />
         <option value="$PROJECT_DIR$/number_writer.py" />
+        <option value="$PROJECT_DIR$/number_reader.py" />
+        <option value="$PROJECT_DIR$/remember_me.py" />
+        <option value="$PROJECT_DIR$/sec_file_username.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="284" />
-    <option name="y" value="65" />
-    <option name="width" value="1175" />
+    <option name="x" value="-1688" />
+    <option name="y" value="165" />
+    <option name="width" value="1329" />
     <option name="height" value="871" />
   </component>
   <component name="ProjectView">
@@ -127,12 +128,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_work" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonTrainingTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonTrainingTasks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_work" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonTrainingTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonTrainingTasks" type="462c0819:PsiDirectoryNode" />
               <item name="txt_files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -164,8 +165,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.division">
-    <configuration name="Die" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sec_file_username">
+    <configuration name="number_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,13 +178,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Die.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="division" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="number_writer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,13 +196,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/division.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_writer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="electric_car" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="remember_me" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,13 +214,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/electric_car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/remember_me.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sec_file_username" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_reader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec_file_username.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,19 +257,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Die" />
-      <item itemvalue="Python.electric_car" />
-      <item itemvalue="Python.file_reader" />
       <item itemvalue="Python.write_message" />
-      <item itemvalue="Python.division" />
+      <item itemvalue="Python.number_writer" />
+      <item itemvalue="Python.number_reader" />
+      <item itemvalue="Python.remember_me" />
+      <item itemvalue="Python.sec_file_username" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.division" />
+        <item itemvalue="Python.sec_file_username" />
+        <item itemvalue="Python.remember_me" />
+        <item itemvalue="Python.number_reader" />
+        <item itemvalue="Python.number_writer" />
         <item itemvalue="Python.write_message" />
-        <item itemvalue="Python.Die" />
-        <item itemvalue="Python.file_reader" />
-        <item itemvalue="Python.electric_car" />
       </list>
     </recent_temporary>
   </component>
@@ -286,16 +287,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="284" y="65" width="1175" height="871" extended-state="0" />
+    <frame x="-1688" y="165" width="1329" height="871" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29462737" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25917432" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2764858" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2764858" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3296837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31912145" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31912145" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -311,41 +312,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/electric_car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Die.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/txt_files/pi_digits.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7395">
-          <caret line="493" column="78" selection-start-line="493" selection-start-column="78" selection-end-line="493" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file_reader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -583,16 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/txt_files/cats.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/txt_files/gzsh_file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/txt_files/guest.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -607,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/txt_files/dogs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Die.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -621,19 +570,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write_message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="34" selection-start-line="21" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file_reader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/write_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/division.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numbers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt_files/cats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt_files/dogs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txt_files/gzsh_file.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/txt_files/for_testing.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -642,15 +636,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/division.py">
+    <entry file="file://$PROJECT_DIR$/username.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remember_me.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/number_writer.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/sec_file_username.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

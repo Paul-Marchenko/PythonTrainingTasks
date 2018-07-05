@@ -19,8 +19,8 @@ while True:
 """
 
 
-cats = ['tuz', 'sam', 'vas']
-dogs = ['gavs', 'docs', 'nush']
+cats = ['tuz1', 'sam2', 'vas']
+dogs = ['gavs1', 'docs2', 'nush']
 task10_file = 'txt_files/cats.txt'
 task11_file = 'txt_files/dogs.txt'
 
