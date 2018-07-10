@@ -380,21 +380,16 @@ def my_profile(fname,lname,age, **user_info):
 
 print(my_profile('vas','alibaba','old', positions='sesurity', state = 'private'))
 """
-	
-def my_profile(fname,lname,age, **user_info):
+
+
+def my_profile(fname, lname, age, **user_info):
 	profile = {}
-	profile['fname']=fname
-	profile['lname']=fname
-	profile['age']=fname
+	profile['fname'] = fname
+	profile['lname'] = fname
+	profile['age'] = fname
 	for key, value in user_info.items():
 		profile[key] = value
 	return profile
 
-print(my_profile('vas','alibaba','old', positions='sesurity', state = 'private'))
 
-
-
-
-
-	    
-	    
+print(my_profile('vas', 'alibaba', 'old', positions='sesurity', state='private'))
