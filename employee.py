@@ -12,9 +12,10 @@ class Employee:
               + " with salary " + str(self.full_info[2]))
         # print("New employee is " + self.name.title() + " " + self.surname.title() + " with salary " + str(self.salary))
 
-    def give_raise(self, range='', permanent_salary=5000):
+    def give_raise(self, range=0, permanent_salary=5000):
         self.salary = int(self.salary + permanent_salary + range)
         print("My new salary is: " + str(self.salary) + " and it was raised to " + str(range))
+        return self.salary
 
 
 info = ('vasya', 'alibaba', 1700)

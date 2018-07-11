@@ -9,11 +9,11 @@ class SalaryEmployeeTest(unittest.TestCase):
 
     def test_give_default_raise(self):
         full_salary = self.current_empl.give_raise()
-        print(full_salary)
-        #self.assertEquals(full_salary, 6700)
+        #print(full_salary)
+        self.assertEquals(full_salary, 6700)
 
     def test_give_custom_raise(self):
         full_salary = self.current_empl.give_raise(250)
-        print(full_salary)
-        #self.assertEquals(full_salary, 6950)
+        #print(full_salary)
+        self.assertEquals(full_salary, 6950)
 
