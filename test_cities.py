@@ -9,4 +9,7 @@ class City_test_case(unittest.TestCase):
         self.assertEquals(city_country, 'Kyiv Ukraine')
 
 
-
+class Population_test_case(unittest.TestCase):
+    def test_city_country_population(self):
+        population = get_city_country('Kyiv', 'Ukraine', '5000')
+        self.assertEquals(population, 'Kyiv Ukraine 5000')
