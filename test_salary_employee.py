@@ -1,4 +1,5 @@
 import unittest
+import nose
 from employee import Employee
 
 

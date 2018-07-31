@@ -38,3 +38,5 @@ print("_" *50)
 restik.increment_number_served(1)
 print(restik.number_served)
 print("_" *50)
+for key, value in restaurant.items():
+	print('{}:{}'.format(key, value))
